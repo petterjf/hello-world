@@ -1,2 +1,3 @@
 # hello-world
-Hello world 
+
+Dette er noe nyttig informasjon.
